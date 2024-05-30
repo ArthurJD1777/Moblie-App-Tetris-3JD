@@ -1,6 +1,5 @@
 # Aplicativo do Tetris
-- **Autores - Versão 1.0**: Filipe, João Lucas
-- **Autores - Versão 2.0**: Erick Galvez, Arthur Victor
+- **Autores - 2° Bimestre**: Erick Galvez, Arthur Victor
   
 <img src="https://bdjogos.com.br/capas/4166-Tetris-Game-Boy-capa-1.jpg">
 
