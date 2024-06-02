@@ -8,8 +8,8 @@ Clique [AQUI](https://github.com/ArthurJD1777/Moblie-App-Tetris-3JD/wiki) para a
 <br><br>
 Aqui estão listados todas as páginas da wiki do aplicativo para qualquer dúvida do desenvolvimento do app:
 - [Home](https://github.com/ArthurJD1777/Moblie-App-Tetris-3JD/wiki)
-- [Navegação de Telas]()
-- [Tela de Início]()
-- [Tela de Mecânicas]()
-- [Tela de Gameplay]()
-- [Tela de História]()
+- [Navegação de Telas](https://github.com/ArthurJD1777/Moblie-App-Tetris-3JD/wiki/Navegação-de-Telas)
+- [Tela de Início](https://github.com/ArthurJD1777/Moblie-App-Tetris-3JD/wiki/Tela-de-Início)
+- [Tela de Mecânicas](https://github.com/ArthurJD1777/Moblie-App-Tetris-3JD/wiki/Tela-de-Mecânicas)
+- [Tela de Gameplay](https://github.com/ArthurJD1777/Moblie-App-Tetris-3JD/wiki/Tela-de-Gameplay)
+- [Tela de História](https://github.com/ArthurJD1777/Moblie-App-Tetris-3JD/wiki/Tela-de-História)
