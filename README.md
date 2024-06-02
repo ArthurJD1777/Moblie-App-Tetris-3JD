@@ -5,7 +5,7 @@
 
 ## Wiki
 Clique [AQUI](https://github.com/ArthurJD1777/Moblie-App-Tetris-3JD/wiki) para acessar a Home Page da wiki do aplicativo.
-<br>
+<br><br>
 Aqui estão listados todas as páginas da wiki do aplicativo para qualquer dúvida do desenvolvimento do app:
 - [Home](https://github.com/ArthurJD1777/Moblie-App-Tetris-3JD/wiki)
 - [Navegação de Telas]()
